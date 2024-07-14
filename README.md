@@ -26,5 +26,5 @@ In this project, I conducted a comprehensive analysis of electric vehicles (EVs)
 
 This project not only showcased the current trends and distribution of electric vehicles in the United States but also highlighted the importance of brand strategies and regional policies in shaping the EV market. Through effective use of Tableau, the analysis provided actionable insights that could inform future marketing, sales, and policy-making decisions in the EV sector.
 
-![eletricvehiclesanalysis](https://github.com/farhanxramzan/Electric-Vehicles-Data-Analysis/assets/170033603/387df027-147f-4f69-b5a6-b32fb2c5fa3f)
+![asalev](https://github.com/user-attachments/assets/657e0d99-e4d9-47f9-baf8-a6e78475b884)
 
